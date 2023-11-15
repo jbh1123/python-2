@@ -176,7 +176,7 @@ Create a Python class called `TaxMan` that accepts two arguments:
   - The percent sales tax (string)
 
 The `TaxMan` class has two methods:
-  - `calc_total()`: Sums the price of all the items and applies the sales tax (saved to a private instance variable)
+  - `calc_total()`: Sums the price of all the items and applies the sales tax ()saved to a private instance variable
   - `get_total()`: Returns the total price including the sales tax.
 
 Output:
